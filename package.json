@@ -1,0 +1,23 @@
+{
+  "name": "exercicio_express",
+  "version": "1.0.0",
+  "description": "Exrecicio, utilizando o fremework Express.js, para obtenção de nota para a disciplina de Front-end/Back-end Fremework no 4° período do curso de Ciência da Computação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinicius-1300/Exercicio_Express.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinicius-1300/Exercicio_Express.js/issues"
+  },
+  "homepage": "https://github.com/Vinicius-1300/Exercicio_Express.js#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
